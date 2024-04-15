@@ -1,0 +1,21 @@
+{
+  "name": "BTS7960_H-Bridge",
+  "version": "1.0.0",
+  "description": "Library created to simplify use of H-Bridge based on BTS7960",
+  "keywords": "h-bridge, BTS7960, esp32",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Dawid-Jarczok/BTS7960_H-Bridge.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Dawid Jarczok",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
